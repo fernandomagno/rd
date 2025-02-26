@@ -1,0 +1,9 @@
+# ticket_back_end
+
+1 - Clone o projeto através do comando git clone https://github.com/fernandomagno/ticket_back_end.git
+
+2 - Acesse a pasta API, depois execute o comando: bundle install
+
+3 - Para executar todos os projetos execute o comando: cucumber -t@rd
+
+7 - Para acessar o relatório acesse esse caminho no seu computador: file:///C:/magno/API/reports/features_report.html
